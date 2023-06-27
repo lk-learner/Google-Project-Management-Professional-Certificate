@@ -16,20 +16,12 @@ This program qualifies you for over 100 hours of project management education, w
 
 75% of certificate graduates report a positive career outcome (e.g., new job, promotion, or raise) within six months of completion²
 
-Check out all Google Career Certificates 
-here
-.
-
-¹Lightcast™ US Job Postings (2022: Jan. 1, 2022 - Dec. 31, 2022).
-
-²Based on program graduate survey, United States 2022
-
-Applied Learning Project
-
 This program includes over 140 hours of instruction and hundreds of practice-based assessments which will help you simulate real-world project management scenarios that are critical for success in the workplace.
 
 The content is highly interactive and exclusively developed by Google employees with decades of experience in program and project management.
 
-Skills you’ll gain will include: Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates; Practicing Agile project management, with an emphasis on Scrum.
+**Skills you’ll gain will include:** 
+
+Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates; Practicing Agile project management, with an emphasis on Scrum.
 
 Through a mix of videos, assessments, and hands-on activities, you’ll get introduced to initiating, planning, and running both traditional and Agile projects. You’ll develop a toolbox to demonstrate your understanding of key project management elements, including managing a schedule, budget, and team.
