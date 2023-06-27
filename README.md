@@ -28,22 +28,22 @@ Through a mix of videos, assessments, and hands-on activities, you’ll get intr
 
 #### What you'll learn
 
-- [x] Gain an immersive understanding of the practices and skills needed to succeed in an entry-level project management role
+👉 Gain an immersive understanding of the practices and skills needed to succeed in an entry-level project management role
 
-- [x] Learn how to create effective project documentation and artifacts throughout the various phases of a project
+👉 Learn how to create effective project documentation and artifacts throughout the various phases of a project
 
-- [x] Learn the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles
+👉 Learn the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles
 
-- [x] Practice strategic communication, problem-solving, and stakeholder management through real-world scenarios
+👉 Practice strategic communication, problem-solving, and stakeholder management through real-world scenarios
 
 ---
 
 ## Professional Certificate - 6 course series
 
 
-- [x] **C1-Foundations of Project Management**
-- [x] **C2-Project Initiation: Starting a Successful Project**
-- [x] **C3-Project Planning: Putting It All Together**
-- [x] **C4-Project Execution: Running the Project**
-- [x] **C5-Agile Project Management**
-- [x] **C6-Capstone: Applying Project Management in the Real World**
+:white_check_mark: **C1-Foundations of Project Management**
+:white_check_mark: **C2-Project Initiation: Starting a Successful Project**
+:white_check_mark: **C3-Project Planning: Putting It All Together**
+:white_check_mark: **C4-Project Execution: Running the Project**
+:white_check_mark: **C5-Agile Project Management**
+:white_check_mark: **C6-Capstone: Applying Project Management in the Real World**
