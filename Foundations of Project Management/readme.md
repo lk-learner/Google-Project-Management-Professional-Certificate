@@ -9,3 +9,5 @@
 - Explain the project management life cycle and compare different program management methodologies 
 
 - Define organizational structure and organizational culture and explain how it impacts project management.
+
+---
