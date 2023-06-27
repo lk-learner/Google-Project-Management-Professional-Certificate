@@ -12,4 +12,4 @@
 
 ---
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-1-Coursera X5PWECG36MRX.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Coursera Google Project Management Professional certificate Course-1.png" width=60% height=60%>
