@@ -25,3 +25,25 @@ The content is highly interactive and exclusively developed by Google employees 
 Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates; Practicing Agile project management, with an emphasis on Scrum.
 
 Through a mix of videos, assessments, and hands-on activities, you’ll get introduced to initiating, planning, and running both traditional and Agile projects. You’ll develop a toolbox to demonstrate your understanding of key project management elements, including managing a schedule, budget, and team.
+
+#### What you'll learn
+
+- [x] Gain an immersive understanding of the practices and skills needed to succeed in an entry-level project management role
+
+- [x] Learn how to create effective project documentation and artifacts throughout the various phases of a project
+
+- [x] Learn the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles
+
+- [x] Practice strategic communication, problem-solving, and stakeholder management through real-world scenarios
+
+---
+
+## Professional Certificate - 6 course series
+
+
+- [x] **C1-Foundations of Project Management**
+- [x] **C2-Project Initiation: Starting a Successful Project**
+- [x] **C3-Project Planning: Putting It All Together**
+- [x] **C4-Project Execution: Running the Project**
+- [x] **C5-Agile Project Management**
+- [x] **C6-Capstone: Applying Project Management in the Real World**
