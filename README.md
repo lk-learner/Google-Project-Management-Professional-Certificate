@@ -22,9 +22,9 @@ The content is highly interactive and exclusively developed by Google employees 
 
 **Skills you’ll gain will include:** 
 
-Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates; Practicing Agile project management, with an emphasis on Scrum.
+👉 Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates; Practicing Agile project management, with an emphasis on Scrum.
 
-Through a mix of videos, assessments, and hands-on activities, you’ll get introduced to initiating, planning, and running both traditional and Agile projects. You’ll develop a toolbox to demonstrate your understanding of key project management elements, including managing a schedule, budget, and team.
+👉 Through a mix of videos, assessments, and hands-on activities, you’ll get introduced to initiating, planning, and running both traditional and Agile projects. You’ll develop a toolbox to demonstrate your understanding of key project management elements, including managing a schedule, budget, and team.
 
 #### What you'll learn
 
@@ -41,7 +41,7 @@ Through a mix of videos, assessments, and hands-on activities, you’ll get intr
 ## Professional Certificate - 6 course series
 
 
-:white_check_mark: **C1-Foundations of Project Management**
+[:white_check_mark: **C1-Foundations of Project Management**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-1%20:%20Foundations%20of%20Project%20Management)
 
 :white_check_mark: **C2-Project Initiation: Starting a Successful Project**
 
