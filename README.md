@@ -10,9 +10,9 @@ Gain in-demand skills that will prepare you for an entry-level job. Learn from G
 Upon completion, you can directly apply for jobs with Google and over 150 U.S. employers including Deloitte, Target, Verizon, and of course, Google. 
 
 This program qualifies you for over 100 hours of project management education, which helps prepare you for 
-Project Management Institute
+[Project Management Institute](https://www.pmi.org/)
  Certifications like the globally-recognized 
-Certified Associate in Project Management (CAPM)®.
+[Certified Associate in Project Management (CAPM)®.](https://www.pmi.org/certifications/certified-associate-capm?utm_job_number=16&utm_campaign_name=capm_lead_generation&utm_region_name=north_america&utm_program_origin=planned_campaign&utm_program_type=continuous_campaign&utm_campaign_intent=acquisition&utm_funnel_stage=lead_acquisition&utm_initiative=certification&utm_product=capm&utm_marketing_channel=paid_media&utm_marketing_subchannel=search_ppc_nonbranded&utm_start_date=07012019&utm_end_date=12312030&utm_source=google&utm_custom_field_one=capm_certification_north_america&utm_custom_field_two=capm_certifiedassocinprojectmgmt&utm_custom_field_three=427370065638&utm_custom_field_four=certified%20associate%20in%20project%20management&utm_custom_field_five=e&gclid=CjwKCAiAkJKCBhAyEiwAKQBCkgwy-7haeOw1QrUjzLbGKtO4OgBW2EUgXGAKcvbs1nnFAhVj2n44RhoCsDIQAvD_BwE)
 
 75% of certificate graduates report a positive career outcome (e.g., new job, promotion, or raise) within six months of completion²
 
