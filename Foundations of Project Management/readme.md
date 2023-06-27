@@ -1,6 +1,8 @@
 # Foundations of Project Management
 
-**What you'll learn**
+## About this Course
+
+####What you'll learn
 
 - Describe project management skills, roles, and responsibilities across a variety of industries
 
