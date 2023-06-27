@@ -42,8 +42,15 @@ Through a mix of videos, assessments, and hands-on activities, you’ll get intr
 
 
 :white_check_mark: **C1-Foundations of Project Management**
+
 :white_check_mark: **C2-Project Initiation: Starting a Successful Project**
+
 :white_check_mark: **C3-Project Planning: Putting It All Together**
+
 :white_check_mark: **C4-Project Execution: Running the Project**
+
 :white_check_mark: **C5-Agile Project Management**
+
 :white_check_mark: **C6-Capstone: Applying Project Management in the Real World**
+
+---
