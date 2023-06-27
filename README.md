@@ -45,7 +45,7 @@ The content is highly interactive and exclusively developed by Google employees 
 
 [:white_check_mark: **C2-Project Initiation: Starting a Successful Project**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-2%20:%20Project%20Initiation:%20Starting%20a%20Successful%20Project)
 
-:white_check_mark: **C3-Project Planning: Putting It All Together**
+[:white_check_mark: **C3-Project Planning: Putting It All Together**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-3%20%3A%20Project%20Planning%3A%20Putting%20It%20All%20Together)
 
 :white_check_mark: **C4-Project Execution: Running the Project**
 
