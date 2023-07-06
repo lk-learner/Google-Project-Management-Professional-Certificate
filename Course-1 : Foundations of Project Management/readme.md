@@ -1,6 +1,11 @@
 # Foundations of Project Management
 
-## About this Course
+<p align="center">
+<img src="/Lakshmi Kadali Certificates/Coursera Google Project Management Professional certificate Course-1.png" width=60% height=60%>
+
+ 
+ ---
+ ## About this Course
 
 This course is the first in a series of six to equip you with the skills you need to apply to introductory-level roles in project management. Project managers play a key role in leading, planning and implementing critical projects to help their organizations succeed. In this course, you’ll discover foundational project management terminology and gain a deeper understanding of  the role and responsibilities of a project manager. We’ll also introduce you to the kinds of jobs you might pursue after completing this program. Throughout the program, you’ll learn from current Google project managers, who can provide you with a multi-dimensional educational experience that will help you build your skills  for on-the-job application. 
 
@@ -43,5 +48,4 @@ By the end of this course, you will be able to:
   You will learn about common organizational structures and how they impact project management, how organizational culture impacts project management, and how a project manager contributes to the change management process. Optionally, you can start to develop your strategy and professional network to help you prepare for your job search.
 
 ---
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Coursera Google Project Management Professional certificate Course-1.png" width=60% height=60%>
+
