@@ -4,7 +4,6 @@
 
 Enhance your project management skills with this beginner-level course, focusing on the key components of project planning, building and managing budgets, effective risk management, and organizing communication and documentation. Learn from Google project managers and gain practical insights to help you excel in introductory project management roles.
 
-This is the second course in the Google Project Management Certificate program. This course will show you how to set a project up for success in the first phase of the project life cycle: the project initiation phase. In exploring the key components of this phase, you’ll learn how to define and manage project goals, deliverables, scope, and success criteria. 
 
 #### What you'll learn
 
