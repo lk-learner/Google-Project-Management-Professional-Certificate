@@ -11,16 +11,6 @@ Enhance your project management skills with this beginner-level course, focusing
 
 This is the third course in the Google Project Management Certificate program. This course will explore how to map out a project in the second phase of the project life cycle: the project planning phase. You will examine the key components of a project plan, how to make accurate time estimates, and how to set milestones. Next, you will learn how to build and manage a budget and how the procurement processes work. Then, you will discover tools that can help you identify and manage different types of risk and how to use a risk management plan to communicate and resolve risks. Finally, you will explore how to draft and manage a communication plan and how to organize project documentation. Current Google project managers will continue to instruct and provide you with hands-on approaches for accomplishing these tasks while showing you the best project management tools and resources for the job at hand.
 
-#### What you'll learn
-
-- Describe the components of the project planning phase and their significance.
-
-- Identify tools and best practices to build a project plan and risk management plan. 
-
-- Describe how to estimate, track, and maintain a budget.
-
-- Draft a communication plan and explain how to manage it.
-
 
 
 
@@ -39,7 +29,19 @@ By the end of this course, you will be able to:
  - Make accurate time estimates and describe techniques for acquiring them from team members.
 
 
-There are 5 modules in this course
+
+#### What you'll learn
+
+- Describe the components of the project planning phase and their significance.
+
+- Identify tools and best practices to build a project plan and risk management plan. 
+
+- Describe how to estimate, track, and maintain a budget.
+
+- Draft a communication plan and explain how to manage it.
+
+
+#### There are 5 modules in this course
 
 **Module-1 Beginning the planning phase**
 
