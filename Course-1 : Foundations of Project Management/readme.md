@@ -24,7 +24,7 @@ By the end of this course, you will be able to:
 - Define organizational structure and organizational culture and explain how it impacts project management.
 
 
-####There are 4 modules in this course.
+#### There are 4 modules in this course.
 
   **Module-1 Embarking on a career in project management**
   
