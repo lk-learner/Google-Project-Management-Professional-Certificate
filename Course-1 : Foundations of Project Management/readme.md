@@ -27,15 +27,19 @@ By the end of this course, you will be able to:
   There are 4 modules in this course.
 
   Module-1 Embarking on a career in project management
+  
   You will learn how the program is structured, what project management is and what a project manager does, how to apply your skills from previous work experience to project management roles, what types of project management roles you could pursue after completing this certificate, and how to search for those positions.
 
   Module-2 Becoming an effective project manager
+  
   You will learn how project managers add value to organizations and to their teams, what the role and responsibilities of a project manager entail, and what core skills a project manager needs to be successful.
 
   Module-3 The project management life cycle and methodologies
+  
   You will learn about the phases of the project life cycle, what tasks they involve, and why it is important to complete them. You will also learn about the different project management methodologies and approaches and which is most effective for a given project.
 
   Module-4 Organizational structure and culture
+  
   You will learn about common organizational structures and how they impact project management, how organizational culture impacts project management, and how a project manager contributes to the change management process. Optionally, you can start to develop your strategy and professional network to help you prepare for your job search.
 
 ---
