@@ -1,0 +1,42 @@
+User story / Acceptance Criteria,Section/Column,Subtask of,Epic,Description,Value,Estimate (Story Points)
+Low-maintenance options,Backlog,,Plant Care Initiatives,"As a potential customer, I want to find out which plants are easiest to care for so that I can purchase low-maintenance options.",$$$,8
+Plant care tips,Backlog,,Plant Care Initiatives,"As a plant owner, I want to access care instructions easily so that I can keep my plant alive longer.",$$$,8
+Plant care tools,Backlog,,Plant Care Initiatives,"As a plant owner, I want to have the right tools to care for my plant so that I can keep it healthy and beautiful.",$$,13
+Watering reminders,Backlog,,Plant Care Initiatives,"As a plant owner, I want to remember when to water my plants so that I don't under- or overwater them.",$$,5
+Expert help and advice,Backlog,,Plant Care Initiatives,"As a plant owner, I want to get expert help and advice quickly so that I know what to do if my plant gets sick. ",$,8
+Return Policy,Backlog,,Plant Care Initiatives,"As a customer, I want a hassle-free way to return my order so that I can be sure I have the right plant for me.",$$,5
+Bonsai Selection,Backlog,,Bonsai trees,"As a potential customer, I want to be able to select from a variety of different Bonsai trees so that I can pick the exact type I want.",$$$,13
+Bonsai Shipping,Backlog,,Bonsai trees,"As a customer, I want to know that my tree will be shipped securely so that it arrives in good condition.",$,5
+Bonsai Styles,Backlog,,Bonsai trees,"As a new Bonsai tree owner, I want to learn about different Bonsai styles so I can decide which is right for my tree.",$$,8
+Bonsai Tools,Backlog,,Bonsai trees,"As a Bonsai tree owner, I want to have the right tools to care for my tree so I can shape and style it properly.",$$,13
+Bonsai History,Backlog,,Bonsai trees,"As a Bonsai tree owner, I want to learn about the Bonsai history and traditions so that I can better appreciate my tree.",$$,13
+Bonsai Techniques,Backlog,,Bonsai trees,"As a Bonsai tree owner, I want to learn how to shape and style my tree so that I can control its growth.",$$$,21
+"Ability to sort plants by ""beginner,"" ""intermediate,"" and ""advanced"" ",,Low-maintenance options,,,,
+Ability to search for plants with similar care needs,,Low-maintenance options,,,,
+Receive plant care leaflet with each order,,Plant care tips,,,,
+Option to sign up for monthly emails with seasonal care tips,,Plant care tips,,,,
+Can purchase plant care starter kits,,Plant care tools,,,,
+Option to buy partial kits or single tools,,Plant care tools,,,,
+Option to sign up for reminder texts or emails,,Watering reminders,,,,
+Option to add reminder stickers for use with calendars to each order,,Watering reminders,,,,
+Access to live chat support ,,Expert help and advice,,,,
+Longer phone support hours,,Expert help and advice,,,,
+Credit and return FAQ linked on homepage,,Return Policy,,,,
+Receive return labels and instructions with each shipment,,Return Policy,,,,
+Ability to select from multiple tree species ,,Bonsai Selection,,,,
+"Options to sort by species, size, and care requirements",,Bonsai Selection,,,,
+"Customers can visit a guide to different styles (formal & informal upright, broom, cascade, etc.) on website",,Bonsai Styles,,,,
+Customers can take a quiz to match their' trees to suitable styles,,Bonsai Styles,,,,
+"Option to purchase Bonsai starter kits (shears, wire, mesh, fertilizer, etc.) available for purchase",,Bonsai Tools,,,,
+"Customers can choose from a selection of premium tools (grafting knives, carving tools, root hooks, etc.)",,Bonsai Tools,,,,
+Can purchase booklet on the history of Bonsai in Japan,,Bonsai History,,,,
+Can purchase booklet Bonsai and Japanese design,,Bonsai History,,,,
+"Can sign up for ""Bonsai Basics"" online course",,Bonsai Techniques,,,,
+Can sign up for intermediate styling course,,Bonsai Techniques,,,,
+Can sign up for advanced techniques online course,,Bonsai Techniques,,,,
+Can review graphic explaining packing and shipping process during checkout,,Bonsai Shipping,,,,
+Signature required when a Bonsai shipment is received,,Bonsai Shipping,,,,
+,Prioritized,,,,,
+,Design / Spec in-progress,,,,,
+,Developing,,,,,
+,Done,,,,,
