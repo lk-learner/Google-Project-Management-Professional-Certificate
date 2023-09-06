@@ -49,7 +49,7 @@ The content is highly interactive and exclusively developed by Google employees 
 
 [:white_check_mark: **C4-Project Execution: Running the Project**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-4%20:%20Project%20Execution:%20Running%20the%20Project)
 
-:white_check_mark: **C5-Agile Project Management**
+[:white_check_mark: **C5-Agile Project Management**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-5%20%3A%20Agile%20Project%20Management)
 
 :white_check_mark: **C6-Capstone: Applying Project Management in the Real World**
 
