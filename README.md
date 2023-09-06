@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Coursera Google Project Mangement Professional certificate" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Coursera Google Project Mangement Professional certificate.png" width=60% height=60%>
 
 Prepare for a new career in the high-growth field of project management, no experience or degree required. Get professional training designed by Google and get on the fastrack to a competitively paid job. There are over 715,000 open jobs in project management with a median entry-level salary of $77,000.¹
 
