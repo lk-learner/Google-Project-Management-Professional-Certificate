@@ -51,6 +51,6 @@ The content is highly interactive and exclusively developed by Google employees 
 
 [:white_check_mark: **C5-Agile Project Management**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-5%20%3A%20Agile%20Project%20Management)
 
-:white_check_mark: **C6-Capstone: Applying Project Management in the Real World**
+[:white_check_mark: **C6-Capstone: Applying Project Management in the Real World**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-6%20:%20Capstone:%20Applying%20Project%20Management%20in%20the%20Real%20World)
 
 ---
